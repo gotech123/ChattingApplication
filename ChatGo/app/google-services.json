@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28002242529",
+    "project_id": "chatgo-29826",
+    "storage_bucket": "chatgo-29826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28002242529:android:b84d7b885fbd3093538ca0",
+        "android_client_info": {
+          "package_name": "com.example.chatgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRgMhS2kEE5OS2J2vKt_LvmHd-SwOdl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
